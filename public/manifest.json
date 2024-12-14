@@ -1,0 +1,39 @@
+{
+  "short_name": "Thafoody",
+  "name": "Create Order Online Food",
+  "icons": [
+    {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "price": 25000,
+    "type": "Makanan Berat",
+    "image": "https://www.masakapahariini.com/wp-content/uploads/2019/06/nasi-goreng-seafood.jpg"
+    },
+    {
+      "id": 2,
+    "name": "Mie Goreng",
+    "price": 20000,
+    "type": "Makanan Berat",
+    "image": "https://cove-blog-id.sgp1.cdn.digitaloceanspaces.com/cove-blog-id/2023/10/mie-jawa.webp"
+    },
+    {
+      "id": 3,
+    "name": "Sate Ayam",
+    "price": 30000,
+    "type": "Makanan Ringan",
+    "image": "https://www.sasa.co.id/medias/page_medias/cara_bikin_sate_ayam_empuk.jpg"
+    },
+
+    {
+      "id": 4,
+    "name": "Spaghetti",
+    "price": 40000,
+    "type": "Makanan Siap Saji",
+    "image": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
